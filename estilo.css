@@ -1,0 +1,44 @@
+
+
+
+Body{
+    background-color: #595959;
+}
+
+
+.img{
+    width: 50px;
+}
+
+.container{
+    display: block;
+    text-align: center;
+    margin-top: 200px;
+    color: #F2F1DF;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.input{
+    padding: 5px 20px;
+}
+
+.Button{
+    background-color: rgb(46, 46, 46);
+    padding: 6px 15px;
+    color: azure;
+    cursor: pointer;
+}
+
+footer{
+    background-color: #8C8C8C;
+    color: #F2E3D5;
+    text-align: center;
+    padding: 30px;
+    font-size: 22px;
+    font-weight: 700;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+
+}
